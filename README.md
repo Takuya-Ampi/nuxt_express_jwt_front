@@ -1,5 +1,9 @@
 # nuxt_express_jwt_front
 
+ログイン  
+ email: kevin@test.com  
+ pass: password
+
 ## Build Setup
 
 ```bash
